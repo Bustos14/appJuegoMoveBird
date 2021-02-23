@@ -28,7 +28,6 @@ public class GameView extends SurfaceView  {
     private Fondo fondo;
     private boolean collision;
     public static int altura = 500;
-    private estadoJuego gameState = estadoJuego.INICIAL;
     private puntaje puntaje;
     private boolean gameOver;
     //Velocidad para controlar movimiento de la pantalla
